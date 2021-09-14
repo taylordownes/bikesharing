@@ -7,6 +7,7 @@ The purpose of this analysis was to use Tableau to analyze the New York City bik
 
 
 ## Results
+- https://public.tableau.com/app/profile/taylor.downes/viz/Module14Challenge
 - Length of time that bikes are checked out for all riders and genders:
     - Most of the checkout times were under an hour.
     - The most common checkout time was 5 minutes.
